@@ -10,7 +10,7 @@ _Berikut adalah biodata siswa yang terdiri dari 3 angkatan:_
        Alamat : Jln. Loa Bakung RT.21 No.04
      
     2. Nama   : Erna Mulyani
-       NIM    : H2020000002
+       NIM    : H202000006
        JK     : Perempuan
        Agama  : Islam
        TTL    : Samarinda, 02 Juni 2003
@@ -28,7 +28,7 @@ _Berikut adalah biodata siswa yang terdiri dari 3 angkatan:_
        JK     : Laki - Laki
        Agama  : Islam
        TTL    : Pinrang, 10 Maret 2003
-       Alamat : Jln. Mangkupalas RT.07 No.12
+       Alamat : Jln. Jakarta RT.14 No.33
      
     5. Nama   : Rifqi Permana
        NIM    : H2020000005
